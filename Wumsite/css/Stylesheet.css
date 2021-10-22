@@ -1,0 +1,13 @@
+.bm_link {
+  background-color: #F6D6ab;
+  padding: 10px;
+}
+  a:link{
+    color:blue;
+  }
+  a:visited{
+    color:blue;
+  }
+  a:hover{
+    color:cyan;
+  }
